@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Dashboard Absensi - Sistem Manajemen Kehadiran
 
 <p align="center">
@@ -249,3 +250,6 @@ php artisan test:notifications
 <p align="center">
   Dibuat dengan ❤️ menggunakan Laravel & Filament
 </p>
+=======
+# KElOMPOK_03-Pak-Yadi-
+>>>>>>> b3b215545d93ed72788239c39215a640cb24e365
